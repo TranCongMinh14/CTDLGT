@@ -1,0 +1,214 @@
+1; Nguyen Van A;
+123 Nguyen Hue, Phuong Ben Nghe, Quan 1, TP HCM;
+0912345678;
+1234567890;
+01/01/2023;
+Cho kham
+
+2; Tran Thi B;
+456 Le Loi, Phuong Ben Nghe, Quan 1, TP HCM;
+0987654321;
+0987654321;
+02/01/2023;
+Dieu tri ngoai tru
+
+3; Pham Van C;
+789 Tran Hung Dao, Phuong Ben Thanh, Quan 1, TP HCM;
+0911111111;
+9876543210;
+03/01/2023;
+Dieu tri noi tru
+
+4; Nguyen Thi D;
+321 Vo Van Tan, Phuong Tan Dinh, Quan 3, TP HCM;
+0909090909;
+1112223334;
+04/01/2023;
+Cho kham
+
+5; Tran Van E;
+654 Nguyen Thi Minh Khai, Phuong Nguyen Cu Trinh, Quan 1, TP HCM;
+0888888888;
+4445556667;
+05/01/2023;
+Dieu tri ngoai tru
+
+6; Le Thi F;
+987 Le Van Sy, Phuong Ben Thanh, Quan 1, TP HCM;
+0999999999;
+7778889990;
+06/01/2023;
+Cho kham
+
+7; Hoang Van G;
+123 Nguyen Hue, Phuong Ben Nghe, Quan 1, TP HCM;
+0912345678;
+1234567890;
+07/01/2023;
+Dieu tri noi tru
+
+8; Nguyen Thi H;
+456 Le Loi, Phuong Ben Nghe, Quan 1, TP HCM;
+0987654321;
+0987654321;
+08/01/2023;
+Cho kham
+
+9; Tran Van I;
+789 Tran Hung Dao, Phuong Ben Thanh, Quan 1, TP HCM;
+0911111111;
+9876543210;
+09/01/2023;
+Dieu tri ngoai tru
+
+10; Pham Van K;
+321 Vo Van Tan, Phuong Tan Dinh, Quan 3, TP HCM;
+0909090909;
+1112223334;
+10/01/2023;
+Cho kham
+
+11; Nguyen Thi L;
+654 Nguyen Thi Minh Khai, Phuong Nguyen Cu Trinh, Quan 1, TP HCM;
+0888888888;
+4445556667;
+11/01/2023;
+Dieu tri noi tru
+
+12; Tran Thi Mai;
+987 Le Van Sy, Phuong Ben Thanh, Quan 1, TP HCM;
+0999999999;
+7778889990;
+12/01/2023;
+Cho kham
+
+13; Hoang Van N;
+123 Nguyen Hue, Phuong Ben Nghe, Quan 1, TP HCM;
+0912345678;
+1234567890;
+13/01/2023;
+Dieu tri ngoai tru
+
+14; Nguyen Thi O;
+456 Le Loi, Phuong Ben Nghe, Quan 1, TP HCM;
+0987654321;
+0987654321;
+14/01/2023;
+Cho kham
+
+15; Tran Van P;
+789 Tran Hung Dao, Phuong Ben Thanh, Quan 1, TP HCM;
+0911111111;
+9876543210;
+15/01/2023;
+
+16; Nguyen Thu An;
+123 Le Loi,
+Phuong Ben Nghe,
+Quan 1,
+TP HCM;
+0922222222;
+8765432109;
+16/01/2023;
+Cho kham
+
+17; Le Van B;
+456 Nguyen Hue,
+Phuong Ben Thanh,
+Quan 1,
+TP HCM;
+0933333333;
+7654321098;
+17/01/2023;
+Dieu tri ngoai tru
+
+18; Pham Thi C;
+789 Dong Khoi, Phuong Ben Nghe, Quan 1, TP HCM;
+0944444444;
+6543210987;
+18/01/2023;
+Dieu tri ngoai tru
+
+19; Hoang Van D;
+147 Le Duan, Phuong Ben Nghe, Quan 1, TP HCM;
+0955555555;
+5432109876;
+19/01/2023;
+Dieu tri ngoai tru
+
+20; Nguyen Van E;
+258 Vo Van Tan, Phuong 5, Quan 3, TP HCM;
+0966666666;
+4321098765;
+20/01/2023;
+Cho kham
+
+21; Tran Thi F;
+369 Nguyen Trai, Phuong 7, Quan 5, TP HCM;
+0977777777;
+3210987654;
+21/01/2023;
+Dieu tri ngoai tru
+
+22; Le Van G;
+789 Le Hong Phong, Phuong 10, Quan 10, TP HCM;
+0988888888;
+2109876543;
+22/01/2023;
+Dieu tri noi tru
+
+23; Pham Thi H;
+987 Tran Hung Dao, Phuong Co Giang, Quan 1, TP HCM;
+0999999999;
+1098765432;
+23/01/2023;
+Cho kham
+
+24; Hoang Van I;
+654 Le Loi, Phuong Ben Thanh, Quan 1, TP HCM;
+0912345678;
+0987654321;
+24/01/2023;
+Dieu tri ngoai tru
+
+25; Nguyen Thi J;
+321 Nguyen Hue, Phuong Ben Nghe, Quan 1, TP HCM;
+0923456789;
+9876543210;
+25/01/2023;
+Dieu tri noi tru
+
+26; Tran Van K;
+654 Dong Khoi,
+Phuong Nguyen Thai Binh, Quan 1, TP HCM;
+0934567890;
+8765432109;
+26/01/2023;
+Dieu tri ngoai tru
+
+27; Le Thi L;
+321 Vo Van Tan, Phuong 6, Quan 3, TP HCM;
+0945678901;
+7654321098;
+27/01/2023;
+Cho kham
+
+28; Pham Van Manh;
+987 Nguyen Trai, Phuong 8, Quan 5, TP HCM;
+0956789012;
+6543210987;
+28/01/2023;
+Dieu tri noi tru
+
+29; Hoang Thi N;
+789 Le Hong Phong, Phuong 9, Quan 10, TP HCM;
+0967890123;
+5432109876;
+29/01/2023;
+Dieu tri ngoai tru
+
+30; Tran Cong Minh;
+12 Nguyen Van Bao, Phuong 4, Quan Go Vap, TP HCM;
+0392345678;
+17/11/2023;
+Cho kham;
